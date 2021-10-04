@@ -4,19 +4,22 @@
 <html>
     <head>
         <title>All About Cats</title>
+        <link rel="stylesheet" href="style.css" type="text/css"
     </head>
     <body>
         <header>
             <h1>All about cats!</h1>
+            <nav>
             <ul>
                 <li>Exotic Cats</li>
                 <li>Short Hair Cats</li>
                 <li>Long Hair Cats</li>
             </ul>
+            <nav>
         </header>
         <main>
             <section>
-                <img src="https://place-hold.it/100x200">
+                <img id="kitty" src="https://newseu.cgtn.com/news/2020-07-28/Pet-cat-becomes-first-animal-in-the-UK-to-test-positive-for-COVID-19-Stu0H0T6Gk/img/9ff85c8aa3cd4670ae6ac08c4327deaf/9ff85c8aa3cd4670ae6ac08c4327deaf.png">
                 <p>
                     Please stop looking at your phone and pet me annoy kitten brother with poking kitty fall asleep upside-down. 
                     Crusty butthole give attitude chase little red dot someday it will be mine! prow?? 
@@ -35,9 +38,8 @@
 
             </section>
             <section>
-                <img src="https://place-hold.it/100x200">
+                <img class="stella" src="https://th.bing.com/th/id/OIP.4nR0dWQEwvHLsEe3qhjObAEgDY?pid=ImgDet&rs=1">
 
-                <a href="buyacat.com">buy a cat</a>
                 <p>
 
                 </p>
@@ -46,7 +48,7 @@
         </main>
         <footer>
             <!--Add copyright symbol-->
-            
+            <a href="buyacat.com">buy a cat</a>
             <a href="about.com">about us</a> 
             <a href="contact.com">contact us</a>
 
