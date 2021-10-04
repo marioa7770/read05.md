@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+
+header {
+    background-color: rgb(240, 230, 230);
+    color:rgb(130, 20, 220);
+    text-align: center;
+}
+
+li {
+    display: inline;
+    border: solid red 1px;
+    background-color: rgb(35, 141, 190);
+    padding: 10px;
+    margin: 150px;
+}
+
+#kitty {
+    width: 300px;
+}
+
+.stella {
+    width: 400px;
+}
+
+section {
+    border: solid red 2px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
